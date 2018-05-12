@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3850
     wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36675#Scenes-and-Adventures-in-the-Semi-Alpine-Region-of-the-Ozark-Mountains-of-Missouri-and-Arkans_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-07-09'
 gutenberg_type: Text
