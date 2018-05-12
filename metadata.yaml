@@ -1,0 +1,35 @@
+_repo: Scenes-and-Adventures-in-the-Semi-Alpine-Region-of-the-Ozark-Mountains-of-Missouri-and-Arkans__36675
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schoolcraft, Henry Rowe
+    alias: Schoolcraft, Henry R. (Henry Rowe)
+    birthdate: 1793
+    deathdate: 1864
+    gutenberg_agent_id: '3850'
+    url: http://www.gutenberg.org/2009/agents/3850
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36675'
+  lccn: rc01001347
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F396'
+- !lcsh 'Soto, Hernando de, approximately 1500-1542'
+- !lcsh 'Missouri -- Description and travel'
+- !lcsh 'Arkansas -- Description and travel'
+- !lcsh 'Ozark Mountains'
+- !lcsh 'Osage Indians'
+title: Scenes and Adventures in the Semi-Alpine Region of the Ozark Mountains of Missouri
+  and Arkansas
+url: http://www.gutenberg.org/ebooks/36675
